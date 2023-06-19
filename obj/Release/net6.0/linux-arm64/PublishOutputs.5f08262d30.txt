@@ -1,0 +1,3 @@
+C:\Users\Ilife\OneDrive\Documents\DigitalTwinFrameWork\DigitalTwinFramework.pdb
+C:\Users\Ilife\OneDrive\Documents\DigitalTwinFrameWork\libSystem.IO.Ports.Native.so
+C:\Users\Ilife\OneDrive\Documents\DigitalTwinFrameWork\DigitalTwinFramework
